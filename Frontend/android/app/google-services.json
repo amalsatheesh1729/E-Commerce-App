@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784834077002",
+    "project_id": "divine-bloom-383508",
+    "storage_bucket": "divine-bloom-383508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784834077002:android:9a6c259aa6d87edb5ea1b3",
+        "android_client_info": {
+          "package_name": "com.simpleonlinestore.simple_online_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784834077002-03b6lfkn2of2s5eu4k7si35ts2o8u9v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-2MK6VE2umM90eXWYh_6a5UYAfuj06rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784834077002-03b6lfkn2of2s5eu4k7si35ts2o8u9v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
